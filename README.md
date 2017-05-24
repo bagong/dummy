@@ -1,2 +1,2 @@
 # placeholder
-Nothing really, just an address for testing
+Nothing, just an address for testing
